@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cadastro-fornecedores/static/css/main.f93ea3bc.css",
+    "main.js": "/cadastro-fornecedores/static/js/main.c5b80473.js",
+    "static/js/453.b355c98a.chunk.js": "/cadastro-fornecedores/static/js/453.b355c98a.chunk.js",
+    "index.html": "/cadastro-fornecedores/index.html",
+    "main.f93ea3bc.css.map": "/cadastro-fornecedores/static/css/main.f93ea3bc.css.map",
+    "main.c5b80473.js.map": "/cadastro-fornecedores/static/js/main.c5b80473.js.map",
+    "453.b355c98a.chunk.js.map": "/cadastro-fornecedores/static/js/453.b355c98a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f93ea3bc.css",
+    "static/js/main.c5b80473.js"
+  ]
+}
